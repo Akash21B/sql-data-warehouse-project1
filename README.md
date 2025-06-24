@@ -4,6 +4,7 @@ Welcome to this end-to-end data project focused on building a modern data wareho
 
 Whether you're exploring customer behavior, analyzing product performance, or identifying sales trends, this project demonstrates how to transform raw data into meaningful insights that drive informed business decisions.
 
+-----------------------------------------------------------------------------------------------
 
 --------------------------- 🚀Project Requirements🚀 ------------------------------
 ------------- Part 1: Building the Data Warehouse (Data Engineering) ---------------
@@ -20,6 +21,8 @@ Integration: Merge both sources into a unified, user-friendly data model optimiz
 Scope: Focus only on the most recent dataset; historical data tracking is not required.
 
 Documentation: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
+
+-----------------------------------------------------------------------------------------
 
 ----------------------Part 2: BI, Analytics & Reporting (Data Analytics)----------------
 Objective
