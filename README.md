@@ -7,11 +7,15 @@ Whether you're exploring customer behavior, analyzing product performance, or id
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------------- 🚀Project Requirements🚀 -----------------------------------------------------------------------------------------------
+
 --------------------------------------------------------------------------- Part 1: Building the Data Warehouse (Data Engineering) ----------------------------------------------------------------------------------
+
 Objective
+
 Develop a modern data warehouse using SQL Server to consolidate sales data, facilitating analytical reporting and informed decision-making.
 
 Specifications
+
 Data Sources: Import data from two source systems (ERP and CRM), both provided as CSV files.
 
 Data Quality: Perform data cleansing and resolve quality issues before analysis.
@@ -25,7 +29,9 @@ Documentation: Provide clear documentation of the data model to support both bus
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ----------------------------------------------------------------------------- Part 2: BI, Analytics & Reporting (Data Analytics) ------------------------------------------------------------------------------------
+
 Objective
+
 Develop BI-driven analytics to deliver detailed insights into the following areas:
 
 Customer Behavior
