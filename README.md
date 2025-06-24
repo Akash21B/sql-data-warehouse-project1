@@ -44,12 +44,11 @@ These insights provide stakeholders with key business metrics, supporting data-d
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-License
+🪪 License
 
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-About Me
+💭 About Me
 
 Hi there! I'm Akash Shetty B. I'm an enthusiastic aspiring SQL Developer and Data Engineer with a strong interest in ETL (Extract, Transform, Load) processes. I'm passionate about building data pipelines, designing efficient data models, and creating data-driven solutions that empower business decisions. I'm constantly learning and growing in the field of data and analytics.
